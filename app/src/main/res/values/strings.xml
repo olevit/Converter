@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">38 папуг</string>
+    <string name="action_setting">Setting</string>
+    <string name="radiobutton_meters">В метрах</string>
+    <string name="radiobutton_parrots">В папугах</string>
+    <string name="buttonConvert_text">Конвектувати</string>
+    <color name="color_activity">#BF9BFF</color>
+</resources>
